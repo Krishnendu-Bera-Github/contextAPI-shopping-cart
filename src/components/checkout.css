@@ -1,0 +1,25 @@
+.checkout-container {
+  border: 2px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+
+.item {
+  display: flex;
+
+  /* justify-content: space-between; */
+}
+
+.items {
+  width: 200px;
+}
+
+.amt {
+  width: 200px;
+}
+
+.checkout-price {
+  display: flex;
+}
